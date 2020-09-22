@@ -1,0 +1,15 @@
+{
+    "name": "fmradio.venji10",
+    "description": "FM Radio app for UT",
+    "architecture": "arm64",
+    "title": "FM Radio",
+    "hooks": {
+        "fmradio": {
+            "apparmor": "fmradio.apparmor",
+            "desktop":  "fmradio.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "venji10 <bennisteinir@gmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}

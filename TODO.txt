@@ -1,0 +1,16 @@
+										State:
+
+High priority:									
+	Fix volume control							fixed with hack, not high priority anymore
+	Fix seeking								Works poorly, can definitely be improved
+										
+Medium priority:								
+	Create icon								
+	Save last frequency							
+	3 frequency saving slots at the bottom like in LOS FM Radio		
+	Switch between headphones and speakers					
+										
+Low priority:									
+	Add radio text support							
+	Recording								
+	Settings (Choose frequency band)					
