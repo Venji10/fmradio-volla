@@ -12,8 +12,8 @@ Licensed under the Apache Software License 2.0
 
 You need clickable to build the app.
 
-The build.sh crosscompiles the app for arm64
-and tries to copy the package into the home directory of the phone over ssh.
+The build.sh script crosscompiles the app for arm64
+and tries to copy the compiled package into the home directory of the phone via ssh.
 
 ## TODO
 
